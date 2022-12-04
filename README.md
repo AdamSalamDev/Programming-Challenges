@@ -4,7 +4,9 @@ Three programming challenges completed in C++
 1.
 
 Create a program that takes an array of numbers and returns the sum of the two lowest, positive numbers.
+
 Show results for these inputs:
+
 Input Vector
 
 [19, 5, 42, 2, 77]
